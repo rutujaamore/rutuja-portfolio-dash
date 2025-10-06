@@ -1,1 +1,0 @@
-web: gunicorn portfolio_app:server
